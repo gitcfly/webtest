@@ -1,0 +1,12 @@
+body{
+    background-image: url('bg.jpg');
+    vertical-align: middle;
+    horiz-align: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.submit{
+    width: 60px;
+    margin: 10px;
+}
